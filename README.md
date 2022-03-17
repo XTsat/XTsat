@@ -3,6 +3,12 @@
 [![Github stats](https://github-readme-stats.vercel.app/api?username=XTsat&theme=dark&show_icons=true#gh-dark-mode-only)](https://github.com/XTsat#gh-dark-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XTsat&theme=dark#gh-dark-mode-only)](https://github.com/XTsat#gh-dark-mode-only)
 
+## 𝕃𝕚𝕟𝕜𝕤
+
+[𝖡𝗂𝗅𝗂𝖻𝗂𝗅𝗂 📺](https://space.bilibili.com/53283118) 
+[𝖯𝗅𝖺𝗒𝗅𝗂𝗌𝗍 🎵](https://music.163.com/#/user/home?id=283588276)
+[Steam 🎮](https://steamcommunity.com/id/XTxiaotong)
+
 <!--
 **XTsat/XTsat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
