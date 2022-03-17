@@ -1,4 +1,7 @@
-### Hi there 👋
+[![Github stats](https://github-readme-stats.vercel.app/api?username=XTsat&show_icons=true#gh-light-mode-only)](https://github.com/YourUsername/github-readme-stats#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XTsat#gh-light-mode-only)](https://github.com/YourUsername/github-readme-stats#gh-light-mode-only)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=XTsat&theme=dark&show_icons=true#gh-dark-mode-only)](https://github.com/YourUsername/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XTsat&theme=dark#gh-dark-mode-only)](https://github.com/YourUsername/github-readme-stats#gh-dark-mode-only)
 
 <!--
 **XTsat/XTsat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
