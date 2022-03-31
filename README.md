@@ -13,6 +13,8 @@
 
 [windows 11 安卓应用指南 🖥️](https://github.com/XTsat/Windows-11-Android-Guide)
 
+[Steam 指南 🎮](https://github.com/XTsat/SteamGuide)
+
 [Steam ++ 指南 🛠️](https://github.com/XTsat/SteamTools-Guide)
 
 [浏览器插件指南 🧰](https://github.com/XTsat/Browser-Extensions-Guide)
