@@ -5,7 +5,7 @@
 
 ## 𝕃𝕚𝕟𝕜𝕤 🔗
 
-[𝖡𝗂𝗅𝗂𝖻𝗂𝗅𝗂 📺](https://space.bilibili.com/53283118) 
+[𝖡𝗂𝗅𝗂𝖻𝗂𝗅𝗂 📺](https://space.bilibili.com/53283118)
 [𝖯𝗅𝖺𝗒𝗅𝗂𝗌𝗍 🎵](https://music.163.com/#/user/home?id=283588276)
 [Steam 🎮](https://steamcommunity.com/id/XTxiaotong)
 
@@ -30,9 +30,20 @@
  -->
 
 <!-- 脚注示例
-Bla bla <sup id="a1">[1](#f1)</sup>
+1:Yadda yadda<a href="#note1" id="note1ref"><sup>1</sup></a>
+
+<a id="note1" href="#note1ref"><sup>1</sup></a>Here is the footnote text.
+
+2:Bla bla <sup id="a1">[1](#f1)</sup>
 
 <b id="f1">[1]:</b> Footnote content here. [↩](#a1)
+
+3:Here is a paragraph with an footnote <span id="a1">[[1]](#f1)</span>.
+
+Footnotes
+=========
+
+1. <span id="f1"></span> This is a footnote. [$\hookleftarrow$](#a1)
 -->
 
 <!--
