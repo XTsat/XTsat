@@ -19,13 +19,19 @@
 
 [油猴脚本指南 🔧](https://github.com/XTsat/Tampermonkey-Guide)
 
-<!-- 
+<!-- 美术字体
 𝔸𝔹𝔻𝔼𝔽𝔾𝕀𝕁𝕂𝕃𝕄𝕆𝕊𝕋𝕌𝕍𝕎𝕏𝕐
 
 𝕒𝕓𝕔𝕕𝕖𝕗𝕘𝕙𝕚𝕛𝕜𝕝𝕞𝕟𝕠𝕡𝕢𝕣𝕤𝕥𝕦𝕧𝕨𝕩𝕪𝕫
 
 𝟘𝟙𝟚𝟛𝟜𝟝𝟞𝟟𝟠𝟡
  -->
+
+<!-- 脚注示例
+Bla bla <sup id="a1">[1](#f1)</sup>
+
+<b id="f1">[1]:</b> Footnote content here. [↩](#a1)
+-->
 
 <!--
 **XTsat/XTsat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
