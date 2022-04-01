@@ -50,6 +50,19 @@ Footnotes
                                         
 -->
 
+<!-- 
+
+先决条件：
+
+nodejs(Version >= 16)
+yarn(Version >= 1)
+
+https://www.jianshu.com/p/1f199ee49e4c
+
+yarn install
+yarn docs:dev
+-->
+
 <!--
 **XTsat/XTsat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
