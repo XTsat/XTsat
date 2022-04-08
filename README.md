@@ -11,7 +11,7 @@
 
 ## 𝕎𝕖𝕓 🌏
 
-[个人主页]https://xtsat.github.io/WebSite/
+[个人主页](https://xtsat.github.io/WebSite/)
 
 ## 𝔾𝕦𝕚𝕕𝕖 📒
 
