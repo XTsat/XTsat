@@ -1,3 +1,5 @@
+# XTsat
+
 [![Github stats](https://github-readme-stats.vercel.app/api?username=XTsat&show_icons=true#gh-light-mode-only)](https://github.com/XTsat#gh-light-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XTsat#gh-light-mode-only)](https://github.com/XTsat#gh-light-mode-only)
 [![Github stats](https://github-readme-stats.vercel.app/api?username=XTsat&theme=dark&show_icons=true#gh-dark-mode-only)](https://github.com/XTsat#gh-dark-mode-only)
@@ -5,15 +7,33 @@
 
 ## 𝕃𝕚𝕟𝕜𝕤 🔗
 
-[𝖡𝗂𝗅𝗂𝖻𝗂𝗅𝗂 📺](https://space.bilibili.com/53283118)
+[![BiliBili](https://img.shields.io/badge/-BiliBili-00A1D6?style=flat-square&logo=bilibili&logoColor=ffffff)](https://space.bilibili.com/53283118)
+[![GitHub](https://img.shields.io/badge/-GitHub-24292f?style=flat-square&logo=GitHub&logoColor=ffffff)](https://github.com/XTsat)
+
+<!-- [𝖡𝗂𝗅𝗂𝖻𝗂𝗅𝗂 📺](https://space.bilibili.com/53283118)
 [𝖯𝗅𝖺𝗒𝗅𝗂𝗌𝗍 🎵](https://music.163.com/#/user/home?id=283588276)
-[Steam 🎮](https://steamcommunity.com/id/XTxiaotong)
+[Steam 🎮](https://steamcommunity.com/id/XTxiaotong) -->
+
+## ℙ𝕝𝕒𝕥𝕗𝕠𝕣𝕞&𝕋𝕠𝕠𝕝𝕤 🧰
+
+[![Windows](https://img.shields.io/badge/Windows-11-4e9eee?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-11)
+[![VScode](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
+[![xiaomi](https://img.shields.io/badge/Redmi-k20Pro-ff6a00?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/)
 
 ## 𝕎𝕖𝕓 🌏
 
 [VuePress主页](https://xtsat.github.io/VuePressWebSite/)
 
 [Docusaurus主页](https://xtsat.github.io/DocusaurusWebSite/)
+
+## ℂ𝕠𝕟𝕤𝕠𝕝𝕖&𝔾𝕒𝕞𝕖 🎮
+
+[![Steam](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/XTxiaotong)
+[![XBOX](https://img.shields.io/badge/-XBOX-107b10?style=flat-square&logo=xbox&logoColor=ffffff)](https://account.xbox.com/zh-cn/profile?gamertag=XTxiaotong)
+<!-- ![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff) -->
+<!-- [![](https://img.shields.io/badge/-PlayStation%204-0070d1?style=flat-square&logo=playstation&logoColor=ffffff)] -->
+
+[![原神个人资料](https://genshin-card.getloli.com/rand/9650576.png)](https://genshin-card.getloli.com/)
 
 ## 𝔾𝕦𝕚𝕕𝕖 📒
 
@@ -28,11 +48,21 @@
 [油猴脚本指南 🔧](https://github.com/XTsat/Tampermonkey-Guide)
 
 <!-- 美术字体
-𝔸𝔹𝔻𝔼𝔽𝔾𝕀𝕁𝕂𝕃𝕄𝕆𝕊𝕋𝕌𝕍𝕎𝕏𝕐
 
-𝕒𝕓𝕔𝕕𝕖𝕗𝕘𝕙𝕚𝕛𝕜𝕝𝕞𝕟𝕠𝕡𝕢𝕣𝕤𝕥𝕦𝕧𝕨𝕩𝕪𝕫
+𝔸 𝔹 ℂ 𝔻 𝔼 𝔽 𝔾 ℍ 𝕀 𝕁 𝕂 𝕃 𝕄 ℕ 𝕆 ℙ ℚ ℝ 𝕊 𝕋 𝕌 𝕍 𝕎 𝕏 𝕐 ℤ 
+
+𝕒 𝕓 𝕔 𝕕 𝕖 𝕗 𝕘 𝕙 𝕚 𝕛 𝕜 𝕝 𝕞 𝕟 𝕠 𝕡 𝕢 𝕣 𝕤 𝕥 𝕦 𝕧 𝕨 𝕩 𝕪 𝕫
 
 𝟘𝟙𝟚𝟛𝟜𝟝𝟞𝟟𝟠𝟡
+
+𝓐、𝓑、𝓒、𝓓、𝓔、𝓕、𝓖、𝓗、𝓘、𝓙、𝓚、𝓛、𝓜、𝓝、𝓞、𝓟、𝓠、𝓡、𝓢、𝓣、𝓤、𝓥、𝓦、𝓧、𝓨、𝓩
+
+𝓪、𝓫、𝓬、𝓭、𝓮、𝓯、𝓰、𝓱、𝓲、𝓳、𝓴、𝓵、𝓶、𝓷、𝓸、𝓹、𝓺、𝓻、𝓼、𝓽、𝓾、𝓿、𝔀、𝔁、𝔂、𝔃
+
+𝙰 𝙱 𝙲 𝙳 𝙴 𝙵 𝙶 𝙷 𝙸 𝙹 𝙺 𝙻 𝙼 𝙽 𝙾 𝙿 𝚀 𝚁 𝚂 𝚃 𝚄 𝚅 𝚆 𝚇 𝚈 𝚉
+
+𝚊 𝚋 𝚌 𝚍 𝚎 𝚏 𝚐 𝚑 𝚒 𝚓 𝚔 𝚕 𝚖 𝚗 𝚘 𝚙 𝚚 𝚛 𝚜 𝚝 𝚞 𝚟 𝚠 𝚡 𝚢 𝚣
+
  -->
 
 <!-- 脚注示例
