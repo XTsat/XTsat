@@ -1,9 +1,7 @@
-# XTsat
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=XTsat&include_all_commits=true&hide_border=true#gh-light-mode-only)](https://github.com/XTsat#gh-light-mode-only)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=XTsat&hide_border=true#gh-light-mode-only)](https://github.com/XTsat#gh-light-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XTsat&hide_border=true#gh-light-mode-only)](https://github.com/XTsat#gh-light-mode-only)
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=XTsat&include_all_commits=true&hide_border=true&theme=github_dark&show_icons=true#gh-dark-mode-only)](https://github.com/XTsat#gh-dark-mode-only)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=XTsat&hide_border=true&theme=github_dark&show_icons=true#gh-dark-mode-only)](https://github.com/XTsat#gh-dark-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XTsat&hide_border=true&theme=github_dark#gh-dark-mode-only)](https://github.com/XTsat#gh-dark-mode-only)
 
 ## 𝕃𝕚𝕟𝕜𝕤 🔗
@@ -15,38 +13,48 @@
 [𝖯𝗅𝖺𝗒𝗅𝗂𝗌𝗍 🎵](https://music.163.com/#/user/home?id=283588276)
 [Steam 🎮](https://steamcommunity.com/id/XTxiaotong) -->
 
-## ℙ𝕝𝕒𝕥𝕗𝕠𝕣𝕞&𝕋𝕠𝕠𝕝𝕤 🧰
+### ℙ𝕝𝕒𝕥𝕗𝕠𝕣𝕞&𝕋𝕠𝕠𝕝𝕤 🧰
 
 [![Windows](https://img.shields.io/badge/Windows-11-4e9eee?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-11)
 [![VScode](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
-[![xiaomi](https://img.shields.io/badge/Redmi-k20Pro-ff6a00?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/)
+[![Redmi](https://img.shields.io/badge/Redmi-k20Pro-ff6a00?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/)
 
-## 𝕎𝕖𝕓 🌏
+## 𝕎𝕖𝕓𝕊𝕚𝕥𝕖 🌏
 
 [VuePress主页](https://xtsat.github.io/VuePressWebSite/)
-
 [Docusaurus主页](https://xtsat.github.io/DocusaurusWebSite/)
 
-## ℂ𝕠𝕟𝕤𝕠𝕝𝕖&𝔾𝕒𝕞𝕖 🎮
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XTsat&repo=VuePressWebSite&theme=vue#gh-light-mode-only)](https://xtsat.github.io/VuePressWebSite/#gh-light-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XTsat&repo=DocusaurusWebSite&theme=vue#gh-light-mode-only)](https://xtsat.github.io/DocusaurusWebSite/#gh-light-mode-only)
 
-[![Steam](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/XTxiaotong)
-[![XBOX](https://img.shields.io/badge/-XBOX-107b10?style=flat-square&logo=xbox&logoColor=ffffff)](https://account.xbox.com/zh-cn/profile?gamertag=XTxiaotong)
-<!-- ![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff) -->
-<!-- [![](https://img.shields.io/badge/-PlayStation%204-0070d1?style=flat-square&logo=playstation&logoColor=ffffff)] -->
-
-[![原神个人资料](https://genshin-card.getloli.com/rand/9650576.png)](https://genshin-card.getloli.com/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XTsat&repo=VuePressWebSite&hide_border=true&theme=vue-dark#gh-dark-mode-only)](https://xtsat.github.io/VuePressWebSite/#gh-dark-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XTsat&repo=DocusaurusWebSite&hide_border=true&theme=vue-dark#gh-dark-mode-only)](https://xtsat.github.io/DocusaurusWebSite/#gh-dark-mode-only)
 
 ## 𝔾𝕦𝕚𝕕𝕖 📒
 
 [windows 11 安卓应用指南 🖥️](https://github.com/XTsat/Windows-11-Android-Guide)
-
 [Steam 指南 🎮](https://github.com/XTsat/SteamGuide)
-
 [Steam ++ 指南 🛠️](https://github.com/XTsat/SteamTools-Guide)
-
 [浏览器插件指南 🧰](https://github.com/XTsat/Browser-Extensions-Guide)
-
 [油猴脚本指南 🔧](https://github.com/XTsat/Tampermonkey-Guide)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XTsat&repo=Windows-11-Android-Guide&theme=vue#gh-light-mode-only)](https://xtsat.github.io/VuePressWebSite/Guide/Windows-11-Android/#gh-light-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XTsat&repo=SteamGuide&theme=vue#gh-light-mode-only)](https://xtsat.github.io/VuePressWebSite/Guide/Steam/#gh-light-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XTsat&repo=SteamTools-Guide&theme=vue#gh-light-mode-only)](https://xtsat.github.io/SteamTools-Guide/#gh-light-mode-only)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XTsat&repo=Windows-11-Android-Guide&hide_border=true&theme=vue-dark#gh-dark-mode-only)](https://xtsat.github.io/VuePressWebSite/Guide/Windows-11-Android/#gh-dark-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XTsat&repo=SteamGuide&hide_border=true&theme=vue-dark#gh-dark-mode-only)](https://xtsat.github.io/VuePressWebSite/Guide/Steam/#gh-dark-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XTsat&repo=SteamTools-Guide&hide_border=true&theme=vue-dark#gh-dark-mode-only)](https://xtsat.github.io/SteamTools-Guide/#gh-dark-mode-only)
+
+### ℂ𝕠𝕟𝕤𝕠𝕝𝕖&𝔾𝕒𝕞𝕖 🎮
+
+[![Steam](https://img.shields.io/badge/Steam-171a21?style=for-the-badge&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/XTxiaotong)
+[![XBOX](https://img.shields.io/badge/-XBOX-107b10?style=for-the-badge&logo=xbox&logoColor=ffffff)](https://account.xbox.com/zh-cn/profile?gamertag=XTxiaotong)
+[![Ubisoft](https://img.shields.io/badge/-Ubisoft-242424?style=for-the-badge&logo=ubisoft&logoColor=ffffff)](https://ubisoftconnect.com/zh-CN/profile/XTxiaotong)
+<!-- ![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff) -->
+<!-- [![](https://img.shields.io/badge/-PlayStation%204-0070d1?style=flat-square&logo=playstation&logoColor=ffffff)] -->
+
+[![原神个人资料](https://genshin-card.getloli.com/rand/9650576.png)](https://genshin-card.getloli.com/)
 
 <!-- 美术字体
 
