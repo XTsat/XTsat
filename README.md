@@ -19,32 +19,35 @@
 [![VScode](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 [![Redmi](https://img.shields.io/badge/Redmi-k20Pro-ff6a00?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/)
 
-## 𝕎𝕖𝕓𝕊𝕚𝕥𝕖 🌏
+<!-- ## 𝕎𝕖𝕓𝕊𝕚𝕥𝕖 🌏 -->
 
-[VuePress主页](https://xtsat.github.io/VuePressWebSite/)
+<!-- [VuePress主页](https://xtsat.github.io/VuePressWebSite/)
 [Docusaurus主页](https://xtsat.github.io/DocusaurusWebSite/)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XTsat&repo=VuePressWebSite&theme=vue#gh-light-mode-only)](https://xtsat.github.io/VuePressWebSite/#gh-light-mode-only)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XTsat&repo=DocusaurusWebSite&theme=vue#gh-light-mode-only)](https://xtsat.github.io/DocusaurusWebSite/#gh-light-mode-only)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XTsat&repo=VuePressWebSite&hide_border=true&theme=vue-dark#gh-dark-mode-only)](https://xtsat.github.io/VuePressWebSite/#gh-dark-mode-only)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XTsat&repo=DocusaurusWebSite&hide_border=true&theme=vue-dark#gh-dark-mode-only)](https://xtsat.github.io/DocusaurusWebSite/#gh-dark-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XTsat&repo=DocusaurusWebSite&hide_border=true&theme=vue-dark#gh-dark-mode-only)](https://xtsat.github.io/DocusaurusWebSite/#gh-dark-mode-only) -->
 
 ## 𝔾𝕦𝕚𝕕𝕖 📒
 
-[windows 11 安卓应用指南 🖥️](https://github.com/XTsat/Windows-11-Android-Guide)
-[Steam 指南 🎮](https://github.com/XTsat/SteamGuide)
-[Steam ++ 指南 🛠️](https://github.com/XTsat/SteamTools-Guide)
-[浏览器插件指南 🧰](https://github.com/XTsat/Browser-Extensions-Guide)
-[油猴脚本指南 🔧](https://github.com/XTsat/Tampermonkey-Guide)
+𝔾𝕦𝕚𝕕𝕖 📒|𝕎𝕖𝕓𝕊𝕚𝕥𝕖 🌏|介绍
+-|-|-
+[windows 指南 🖥️](https://github.com/XTsat/Windows-Guide/)|[Windows-Guide](https://xtsat.github.io/Windows-Guide/)|我使用 Windows 的笔记和指南
+[Steam 指南 🎮](https://github.com/XTsat/SteamGuide/)|[SteamGuide](https://xtsat.github.io/SteamGuide/)|我使用 Steam 的笔记和指南
+[Steam ++ 指南 🛠️](https://github.com/XTsat/SteamTools-Guide/)|[SteamTools-Guide](https://xtsat.github.io/SteamTools-Guide/)|🛠️「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
+[浏览器指南 🧰](https://github.com/XTsat/Browser-Guide/)|[Browser-Guide](https://xtsat.github.io/Browser-Guide/)|让你使用浏览器更方便
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XTsat&repo=Windows-11-Android-Guide&theme=vue#gh-light-mode-only)](https://xtsat.github.io/VuePressWebSite/Guide/Windows-11-Android/#gh-light-mode-only)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XTsat&repo=SteamGuide&theme=vue#gh-light-mode-only)](https://xtsat.github.io/VuePressWebSite/Guide/Steam/#gh-light-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XTsat&repo=Windows-Guide&theme=vue#gh-light-mode-only)](https://xtsat.github.io/Windows-Guide/#gh-light-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XTsat&repo=SteamGuide&theme=vue#gh-light-mode-only)](https://xtsat.github.io/SteamGuide/#gh-light-mode-only)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XTsat&repo=SteamTools-Guide&theme=vue#gh-light-mode-only)](https://xtsat.github.io/SteamTools-Guide/#gh-light-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XTsat&repo=SteamTools-Guide&theme=vue#gh-light-mode-only)](https://xtsat.github.io/Browser-Guide/#gh-light-mode-only)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XTsat&repo=Windows-11-Android-Guide&hide_border=true&theme=vue-dark#gh-dark-mode-only)](https://xtsat.github.io/VuePressWebSite/Guide/Windows-11-Android/#gh-dark-mode-only)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XTsat&repo=SteamGuide&hide_border=true&theme=vue-dark#gh-dark-mode-only)](https://xtsat.github.io/VuePressWebSite/Guide/Steam/#gh-dark-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XTsat&repo=Windows-Guide&hide_border=true&theme=vue-dark#gh-dark-mode-only)](https://xtsat.github.io/Windows-Guide/#gh-dark-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XTsat&repo=SteamGuide&hide_border=true&theme=vue-dark#gh-dark-mode-only)](https://xtsat.github.io/SteamGuide/#gh-dark-mode-only)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XTsat&repo=SteamTools-Guide&hide_border=true&theme=vue-dark#gh-dark-mode-only)](https://xtsat.github.io/SteamTools-Guide/#gh-dark-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XTsat&repo=Browser-Guide&hide_border=true&theme=vue-dark#gh-dark-mode-only)](https://xtsat.github.io/Browser-Guide/#gh-dark-mode-only)
 
 ### ℂ𝕠𝕟𝕤𝕠𝕝𝕖&𝔾𝕒𝕞𝕖 🎮
 
