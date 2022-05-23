@@ -38,16 +38,19 @@
 [Steam 指南 🎮](https://github.com/XTsat/SteamGuide/)|[SteamGuide](https://xtsat.github.io/SteamGuide/)|我使用 Steam 的笔记和指南
 [Steam ++ 指南 🛠️](https://github.com/XTsat/SteamTools-Guide/)|[SteamTools-Guide](https://xtsat.github.io/SteamTools-Guide/)|🛠️「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
 [浏览器指南 🧰](https://github.com/XTsat/Browser-Guide/)|[Browser-Guide](https://xtsat.github.io/Browser-Guide/)|让你使用浏览器更方便
+[秒传脚本文档](https://github.com/XTsat/rapid-upload-userscript-doc/)|[rapid-upload-userscript-doc](https://xtsat.github.io/rapid-upload-userscript-doc/)|度盘秒传脚本的相关文档
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XTsat&repo=Windows-Guide&theme=vue#gh-light-mode-only)](https://xtsat.github.io/Windows-Guide/#gh-light-mode-only)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XTsat&repo=SteamGuide&theme=vue#gh-light-mode-only)](https://xtsat.github.io/SteamGuide/#gh-light-mode-only)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XTsat&repo=SteamTools-Guide&theme=vue#gh-light-mode-only)](https://xtsat.github.io/SteamTools-Guide/#gh-light-mode-only)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XTsat&repo=Browser-Guide&theme=vue#gh-light-mode-only)](https://xtsat.github.io/Browser-Guide/#gh-light-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XTsat&repo=rapid-upload-userscript-doc&theme=vue#gh-light-mode-only)](https://xtsat.github.io/rapid-upload-userscript-doc/#gh-light-mode-only)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XTsat&repo=Windows-Guide&hide_border=true&theme=vue-dark#gh-dark-mode-only)](https://xtsat.github.io/Windows-Guide/#gh-dark-mode-only)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XTsat&repo=SteamGuide&hide_border=true&theme=vue-dark#gh-dark-mode-only)](https://xtsat.github.io/SteamGuide/#gh-dark-mode-only)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XTsat&repo=SteamTools-Guide&hide_border=true&theme=vue-dark#gh-dark-mode-only)](https://xtsat.github.io/SteamTools-Guide/#gh-dark-mode-only)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XTsat&repo=Browser-Guide&hide_border=true&theme=vue-dark#gh-dark-mode-only)](https://xtsat.github.io/Browser-Guide/#gh-dark-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XTsat&repo=rapid-upload-userscript-doc&hide_border=true&theme=vue-dark#gh-dark-mode-only)](https://xtsat.github.io/rapid-upload-userscript-doc/#gh-dark-mode-only)
 
 ### ℂ𝕠𝕟𝕤𝕠𝕝𝕖&𝔾𝕒𝕞𝕖 🎮
 
