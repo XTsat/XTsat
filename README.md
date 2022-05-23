@@ -42,7 +42,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XTsat&repo=Windows-Guide&theme=vue#gh-light-mode-only)](https://xtsat.github.io/Windows-Guide/#gh-light-mode-only)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XTsat&repo=SteamGuide&theme=vue#gh-light-mode-only)](https://xtsat.github.io/SteamGuide/#gh-light-mode-only)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XTsat&repo=SteamTools-Guide&theme=vue#gh-light-mode-only)](https://xtsat.github.io/SteamTools-Guide/#gh-light-mode-only)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XTsat&repo=SteamTools-Guide&theme=vue#gh-light-mode-only)](https://xtsat.github.io/Browser-Guide/#gh-light-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XTsat&repo=Browser-Guide&theme=vue#gh-light-mode-only)](https://xtsat.github.io/Browser-Guide/#gh-light-mode-only)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XTsat&repo=Windows-Guide&hide_border=true&theme=vue-dark#gh-dark-mode-only)](https://xtsat.github.io/Windows-Guide/#gh-dark-mode-only)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XTsat&repo=SteamGuide&hide_border=true&theme=vue-dark#gh-dark-mode-only)](https://xtsat.github.io/SteamGuide/#gh-dark-mode-only)
