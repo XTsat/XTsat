@@ -56,13 +56,13 @@
 
 ### 𝔽𝕒𝕧𝕠𝕣𝕚𝕥𝕖 🧡
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BeyondDimension&repo=SteamTools&theme=vue#gh-light-mode-only)](https://xtsat.github.io/rapid-upload-userscript-doc/#gh-light-mode-only)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DGP-Studio&repo=Snap.Genshin&theme=vue#gh-light-mode-only)](https://xtsat.github.io/rapid-upload-userscript-doc/#gh-light-mode-only)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mengzonefire&repo=rapid-upload-userscript&theme=vue#gh-light-mode-only)](https://xtsat.github.io/rapid-upload-userscript-doc/#gh-light-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BeyondDimension&repo=SteamTools&theme=vue#gh-light-mode-only)](https://github.com/BeyondDimension/SteamTools/#gh-light-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DGP-Studio&repo=Snap.Genshin&theme=vue#gh-light-mode-only)](https://github.com/DGP-Studio/Snap.Genshin#gh-light-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mengzonefire&repo=rapid-upload-userscript&theme=vue#gh-light-mode-only)](https://github.com/mengzonefire/rapid-upload-userscript#gh-light-mode-only)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BeyondDimension&repo=SteamTools&hide_border=true&theme=vue-dark#gh-dark-mode-only)](https://xtsat.github.io/rapid-upload-userscript-doc/#gh-dark-mode-only)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DGP-Studio&repo=Snap.Genshin&hide_border=true&theme=vue-dark#gh-dark-mode-only)](https://xtsat.github.io/rapid-upload-userscript-doc/#gh-dark-mode-only)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mengzonefire&repo=rapid-upload-userscript&hide_border=true&theme=vue-dark#gh-dark-mode-only)](https://xtsat.github.io/rapid-upload-userscript-doc/#gh-dark-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BeyondDimension&repo=SteamTools&hide_border=true&theme=vue-dark#gh-dark-mode-only)](https://github.com/BeyondDimension/SteamTools/#gh-dark-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DGP-Studio&repo=Snap.Genshin&hide_border=true&theme=vue-dark#gh-dark-mode-only)](https://github.com/DGP-Studio/Snap.Genshin#gh-dark-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mengzonefire&repo=rapid-upload-userscript&hide_border=true&theme=vue-dark#gh-dark-mode-only)](https://github.com/mengzonefire/rapid-upload-userscript#gh-dark-mode-only)
 
 ## ℂ𝕠𝕟𝕤𝕠𝕝𝕖&𝔾𝕒𝕞𝕖 🎮
 
