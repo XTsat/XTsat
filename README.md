@@ -40,6 +40,8 @@
 [浏览器指南 🧰](https://github.com/XTsat/Browser-Guide/)|[Browser-Guide](https://xtsat.github.io/Browser-Guide/)|让你使用浏览器更方便
 [秒传脚本文档](https://github.com/XTsat/rapid-upload-userscript-doc/)|[rapid-upload-userscript-doc](https://xtsat.github.io/rapid-upload-userscript-doc/)|度盘秒传脚本的相关文档
 
+## ℙ𝕚𝕟 📌
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XTsat&repo=Windows-Guide&theme=vue#gh-light-mode-only)](https://xtsat.github.io/Windows-Guide/#gh-light-mode-only)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XTsat&repo=SteamGuide&theme=vue#gh-light-mode-only)](https://xtsat.github.io/SteamGuide/#gh-light-mode-only)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XTsat&repo=SteamTools-Guide&theme=vue#gh-light-mode-only)](https://xtsat.github.io/SteamTools-Guide/#gh-light-mode-only)
@@ -52,7 +54,17 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XTsat&repo=Browser-Guide&hide_border=true&theme=vue-dark#gh-dark-mode-only)](https://xtsat.github.io/Browser-Guide/#gh-dark-mode-only)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XTsat&repo=rapid-upload-userscript-doc&hide_border=true&theme=vue-dark#gh-dark-mode-only)](https://xtsat.github.io/rapid-upload-userscript-doc/#gh-dark-mode-only)
 
-### ℂ𝕠𝕟𝕤𝕠𝕝𝕖&𝔾𝕒𝕞𝕖 🎮
+### 𝔽𝕒𝕧𝕠𝕣𝕚𝕥𝕖 🧡
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BeyondDimension&repo=SteamTools&theme=vue#gh-light-mode-only)](https://xtsat.github.io/rapid-upload-userscript-doc/#gh-light-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DGP-Studio&repo=Snap.Genshin&theme=vue#gh-light-mode-only)](https://xtsat.github.io/rapid-upload-userscript-doc/#gh-light-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mengzonefire&repo=rapid-upload-userscript&theme=vue#gh-light-mode-only)](https://xtsat.github.io/rapid-upload-userscript-doc/#gh-light-mode-only)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BeyondDimension&repo=SteamTools&hide_border=true&theme=vue-dark#gh-dark-mode-only)](https://xtsat.github.io/rapid-upload-userscript-doc/#gh-dark-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DGP-Studio&repo=Snap.Genshin&hide_border=true&theme=vue-dark#gh-dark-mode-only)](https://xtsat.github.io/rapid-upload-userscript-doc/#gh-dark-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mengzonefire&repo=rapid-upload-userscript&hide_border=true&theme=vue-dark#gh-dark-mode-only)](https://xtsat.github.io/rapid-upload-userscript-doc/#gh-dark-mode-only)
+
+## ℂ𝕠𝕟𝕤𝕠𝕝𝕖&𝔾𝕒𝕞𝕖 🎮
 
 [![Steam](https://img.shields.io/badge/Steam-171a21?style=for-the-badge&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/XTxiaotong)
 [![XBOX](https://img.shields.io/badge/-XBOX-107b10?style=for-the-badge&logo=xbox&logoColor=ffffff)](https://account.xbox.com/zh-cn/profile?gamertag=XTxiaotong)
