@@ -7,11 +7,8 @@
 ## 𝕃𝕚𝕟𝕜𝕤 🔗
 
 [![BiliBili](https://img.shields.io/badge/-BiliBili-00A1D6?style=flat-square&logo=bilibili&logoColor=ffffff)](https://space.bilibili.com/53283118)
+[![Playlist](https://img.shields.io/badge/-Playlist-dd001b?style=flat-square&logo=Apple%20Music&logoColor=ffffff)](https://music.163.com/#/user/home?id=283588276)
 [![GitHub](https://img.shields.io/badge/-GitHub-24292f?style=flat-square&logo=GitHub&logoColor=ffffff)](https://github.com/XTsat)
-
-<!-- [𝖡𝗂𝗅𝗂𝖻𝗂𝗅𝗂 📺](https://space.bilibili.com/53283118)
-[𝖯𝗅𝖺𝗒𝗅𝗂𝗌𝗍 🎵](https://music.163.com/#/user/home?id=283588276)
-[Steam 🎮](https://steamcommunity.com/id/XTxiaotong) -->
 
 ### ℙ𝕝𝕒𝕥𝕗𝕠𝕣𝕞&𝕋𝕠𝕠𝕝𝕤 🧰
 
@@ -34,35 +31,35 @@
 
 𝔾𝕦𝕚𝕕𝕖 📒|𝕎𝕖𝕓𝕊𝕚𝕥𝕖 🌏|介绍
 -|-|-
+[秒传脚本文档](https://github.com/XTsat/rapid-upload-userscript-doc/)|[rapid-upload-userscript-doc](https://xtsat.github.io/rapid-upload-userscript-doc/)|度盘秒传脚本的相关文档
+[Steam ++ 指南 🛠️](https://github.com/XTsat/SteamTools-Guide/)|[SteamTools-Guide](https://xtsat.github.io/SteamTools-Guide/)|🛠️「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
 [windows 指南 🖥️](https://github.com/XTsat/Windows-Guide/)|[Windows-Guide](https://xtsat.github.io/Windows-Guide/)|我使用 Windows 的笔记和指南
 [Steam 指南 🎮](https://github.com/XTsat/SteamGuide/)|[SteamGuide](https://xtsat.github.io/SteamGuide/)|我使用 Steam 的笔记和指南
-[Steam ++ 指南 🛠️](https://github.com/XTsat/SteamTools-Guide/)|[SteamTools-Guide](https://xtsat.github.io/SteamTools-Guide/)|🛠️「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
 [浏览器指南 🧰](https://github.com/XTsat/Browser-Guide/)|[Browser-Guide](https://xtsat.github.io/Browser-Guide/)|让你使用浏览器更方便
-[秒传脚本文档](https://github.com/XTsat/rapid-upload-userscript-doc/)|[rapid-upload-userscript-doc](https://xtsat.github.io/rapid-upload-userscript-doc/)|度盘秒传脚本的相关文档
 
 ## ℙ𝕚𝕟 📌
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XTsat&repo=rapid-upload-userscript-doc&theme=vue#gh-light-mode-only)](https://xtsat.github.io/rapid-upload-userscript-doc/#gh-light-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XTsat&repo=SteamTools-Guide&theme=vue#gh-light-mode-only)](https://xtsat.github.io/SteamTools-Guide/#gh-light-mode-only)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XTsat&repo=Windows-Guide&theme=vue#gh-light-mode-only)](https://xtsat.github.io/Windows-Guide/#gh-light-mode-only)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XTsat&repo=SteamGuide&theme=vue#gh-light-mode-only)](https://xtsat.github.io/SteamGuide/#gh-light-mode-only)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XTsat&repo=SteamTools-Guide&theme=vue#gh-light-mode-only)](https://xtsat.github.io/SteamTools-Guide/#gh-light-mode-only)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XTsat&repo=Browser-Guide&theme=vue#gh-light-mode-only)](https://xtsat.github.io/Browser-Guide/#gh-light-mode-only)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XTsat&repo=rapid-upload-userscript-doc&theme=vue#gh-light-mode-only)](https://xtsat.github.io/rapid-upload-userscript-doc/#gh-light-mode-only)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XTsat&repo=rapid-upload-userscript-doc&hide_border=true&theme=vue-dark#gh-dark-mode-only)](https://xtsat.github.io/rapid-upload-userscript-doc/#gh-dark-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XTsat&repo=SteamTools-Guide&hide_border=true&theme=vue-dark#gh-dark-mode-only)](https://xtsat.github.io/SteamTools-Guide/#gh-dark-mode-only)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XTsat&repo=Windows-Guide&hide_border=true&theme=vue-dark#gh-dark-mode-only)](https://xtsat.github.io/Windows-Guide/#gh-dark-mode-only)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XTsat&repo=SteamGuide&hide_border=true&theme=vue-dark#gh-dark-mode-only)](https://xtsat.github.io/SteamGuide/#gh-dark-mode-only)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XTsat&repo=SteamTools-Guide&hide_border=true&theme=vue-dark#gh-dark-mode-only)](https://xtsat.github.io/SteamTools-Guide/#gh-dark-mode-only)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XTsat&repo=Browser-Guide&hide_border=true&theme=vue-dark#gh-dark-mode-only)](https://xtsat.github.io/Browser-Guide/#gh-dark-mode-only)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XTsat&repo=rapid-upload-userscript-doc&hide_border=true&theme=vue-dark#gh-dark-mode-only)](https://xtsat.github.io/rapid-upload-userscript-doc/#gh-dark-mode-only)
 
 ### 𝔽𝕒𝕧𝕠𝕣𝕚𝕥𝕖 🧡
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BeyondDimension&repo=SteamTools&theme=vue#gh-light-mode-only)](https://github.com/BeyondDimension/SteamTools/#gh-light-mode-only)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DGP-Studio&repo=Snap.Genshin&theme=vue#gh-light-mode-only)](https://github.com/DGP-Studio/Snap.Genshin#gh-light-mode-only)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mengzonefire&repo=rapid-upload-userscript&theme=vue#gh-light-mode-only)](https://github.com/mengzonefire/rapid-upload-userscript#gh-light-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DGP-Studio&repo=Snap.Genshin&theme=vue#gh-light-mode-only)](https://github.com/DGP-Studio/Snap.Genshin#gh-light-mode-only)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BeyondDimension&repo=SteamTools&hide_border=true&theme=vue-dark#gh-dark-mode-only)](https://github.com/BeyondDimension/SteamTools/#gh-dark-mode-only)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DGP-Studio&repo=Snap.Genshin&hide_border=true&theme=vue-dark#gh-dark-mode-only)](https://github.com/DGP-Studio/Snap.Genshin#gh-dark-mode-only)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mengzonefire&repo=rapid-upload-userscript&hide_border=true&theme=vue-dark#gh-dark-mode-only)](https://github.com/mengzonefire/rapid-upload-userscript#gh-dark-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DGP-Studio&repo=Snap.Genshin&hide_border=true&theme=vue-dark#gh-dark-mode-only)](https://github.com/DGP-Studio/Snap.Genshin#gh-dark-mode-only)
 
 ## ℂ𝕠𝕟𝕤𝕠𝕝𝕖&𝔾𝕒𝕞𝕖 🎮
 
@@ -75,6 +72,9 @@
 [![原神个人资料](https://genshin-card.getloli.com/rand/9650576.png)](https://genshin-card.getloli.com/)
 
 <!-- 美术字体
+
+一键生成花体字网站  
+https://beizhedenglong.github.io/weird-fonts/
 
 𝔸 𝔹 ℂ 𝔻 𝔼 𝔽 𝔾 ℍ 𝕀 𝕁 𝕂 𝕃 𝕄 ℕ 𝕆 ℙ ℚ ℝ 𝕊 𝕋 𝕌 𝕍 𝕎 𝕏 𝕐 ℤ 
 
@@ -111,19 +111,6 @@ Footnotes
 
 <!-- 空白符号(非空格)
                                         
--->
-
-<!-- 
-
-先决条件：
-
-nodejs(Version >= 16)
-yarn(Version >= 1)
-
-https://www.jianshu.com/p/1f199ee49e4c
-
-yarn install
-yarn docs:dev
 -->
 
 <!--
