@@ -69,8 +69,6 @@
 <!-- ![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff) -->
 <!-- [![](https://img.shields.io/badge/-PlayStation%204-0070d1?style=flat-square&logo=playstation&logoColor=ffffff)] -->
 
-[![原神个人资料](https://genshin-card.getloli.com/rand/9650576.png)](https://genshin-card.getloli.com/)
-
 <!-- 美术字体
 
 一键生成花体字网站  
