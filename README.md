@@ -1,37 +1,19 @@
-[![Github stats](https://github-readme-stats.vercel.app/api?username=XTsat&hide_border=true#gh-light-mode-only)](https://github.com/XTsat#gh-light-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XTsat&hide_border=true#gh-light-mode-only)](https://github.com/XTsat#gh-light-mode-only)
+[![Github stats](https://github-stats-extended.vercel.app/api?username=XTsat&hide_border=true#gh-light-mode-only)](https://github.com/XTsat#gh-light-mode-only)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=XTsat&hide_border=true#gh-light-mode-only)](https://github.com/XTsat#gh-light-mode-only)
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=XTsat&hide_border=true&theme=github_dark&show_icons=true#gh-dark-mode-only)](https://github.com/XTsat#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XTsat&hide_border=true&theme=github_dark#gh-dark-mode-only)](https://github.com/XTsat#gh-dark-mode-only)
+[![Github stats](https://github-stats-extended.vercel.app/api?username=XTsat&hide_border=true&theme=github_dark&show_icons=true#gh-dark-mode-only)](https://github.com/XTsat#gh-dark-mode-only)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=XTsat&hide_border=true&theme=github_dark#gh-dark-mode-only)](https://github.com/XTsat#gh-dark-mode-only)
 
 ## 𝕎𝕖𝕓𝕊𝕚𝕥𝕖 🌏
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XTsat&repo=XTsat&theme=vue#gh-light-mode-only)](https://xtsat.github.io/#gh-light-mode-only)
+个人博客 https://xtsat.cc.cd/
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XTsat&repo=XTsat&hide_border=true&theme=vue-dark#gh-dark-mode-only)](https://xtsat.github.io/#gh-dark-mode-only)
+<!-- ## 𝔾𝕦𝕚𝕕𝕖 📒
 
-## 𝔾𝕦𝕚𝕕𝕖 📒
-
-𝔾𝕦𝕚𝕕𝕖 📒|𝕎𝕖𝕓𝕊𝕚𝕥𝕖 🌏|介绍
--|-|-
-[秒传脚本文档](https://github.com/XTsat/rapid-upload-userscript-doc/)|[rapid-upload-userscript-doc](https://xtsat.github.io/rapid-upload-userscript-doc/)|度盘秒传脚本的相关文档
-[Steam ++ 指南 🛠️](https://github.com/XTsat/SteamTools-Guide/)|[SteamTools-Guide](https://xtsat.github.io/SteamTools-Guide/)|🛠️「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
-
-## ℙ𝕚𝕟 📌
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XTsat&repo=rapid-upload-userscript-doc&theme=vue#gh-light-mode-only)](https://xtsat.github.io/rapid-upload-userscript-doc/#gh-light-mode-only)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XTsat&repo=SteamTools-Guide&theme=vue#gh-light-mode-only)](https://xtsat.github.io/SteamTools-Guide/#gh-light-mode-only)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XTsat&repo=rapid-upload-userscript-doc&hide_border=true&theme=vue-dark#gh-dark-mode-only)](https://xtsat.github.io/rapid-upload-userscript-doc/#gh-dark-mode-only)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XTsat&repo=SteamTools-Guide&hide_border=true&theme=vue-dark#gh-dark-mode-only)](https://xtsat.github.io/SteamTools-Guide/#gh-dark-mode-only)
-
-### 𝔽𝕒𝕧𝕠𝕣𝕚𝕥𝕖 🧡
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BeyondDimension&repo=SteamTools&theme=vue#gh-light-mode-only)](https://github.com/BeyondDimension/SteamTools/#gh-light-mode-only)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mengzonefire&repo=rapid-upload-userscript&theme=vue#gh-light-mode-only)](https://github.com/mengzonefire/rapid-upload-userscript#gh-light-mode-only)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BeyondDimension&repo=SteamTools&hide_border=true&theme=vue-dark#gh-dark-mode-only)](https://github.com/BeyondDimension/SteamTools/#gh-dark-mode-only)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mengzonefire&repo=rapid-upload-userscript&hide_border=true&theme=vue-dark#gh-dark-mode-only)](https://github.com/mengzonefire/rapid-upload-userscript#gh-dark-mode-only)
+𝔾𝕦𝕚𝕕𝕖 📒|介绍
+-|-
+[秒传脚本文档](https://xtsat.github.io/rapid-upload-userscript-doc/)|度盘秒传脚本的相关文档
+[Steam ++ 指南 🛠️](https://xtsat.github.io/SteamTools-Guide/)|🛠️「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。 -->
 
 <!-- 美术字体
 
